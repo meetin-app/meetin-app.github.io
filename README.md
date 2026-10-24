@@ -2,9 +2,9 @@
 
 Download page and policies for the Meetin Android app. Talk to face-verified listeners by voice or video and pay only for the minutes you talk.
 
-**Download:** [Meetin.apk (latest)](https://github.com/vaunvarun/meetin-download/releases/latest/download/Meetin.apk)
+**Download:** [Meetin.apk (latest)](https://github.com/meetin-app/meetin-app.github.io/releases/latest/download/Meetin.apk)
 
-Website: https://vaunvarun.github.io/meetin-download/
+Website: https://meetin-app.github.io/
 
 - [Terms & Conditions](terms.html)
 - [Privacy Policy](privacy.html)
