@@ -35,6 +35,15 @@ header.top { background: var(--gradient); color: #fff; padding: 18px 0 72px; bor
 }
 .download small { display: block; font-weight: 500; font-size: 12px; color: var(--dim); }
 .hero .note { font-size: 13px; opacity: 0.85; margin-top: 14px; }
+.hero .note a { color: #fff; font-weight: 600; }
+.download.solid { background: var(--gradient); color: #fff; margin-top: 8px; }
+.download.solid small { color: rgba(255, 255, 255, 0.85); }
+/* Shown only where they apply: inside Instagram / Facebook, on iPhones, and while the download starts. */
+.in-app-note, .ios-note, .auto-note { display: none; }
+body.in-app .in-app-note, body.ios .ios-note, body.auto-download .auto-note { display: block; }
+body.ios a.download { display: none; }
+.hero .in-app-note { opacity: 1; background: rgba(255, 255, 255, 0.18); border-radius: 14px; padding: 10px 14px; font-size: 14px; }
+.auto-note { background: #ecfdf3; color: #15803d; border-radius: 14px; padding: 10px 14px; font-weight: 600; }
 .phone {
   justify-self: center; width: 250px; height: 470px; border-radius: 36px; background: rgba(255, 255, 255, 0.16);
   border: 2px solid rgba(255, 255, 255, 0.35); padding: 18px; display: flex; flex-direction: column; gap: 12px;
@@ -66,6 +75,7 @@ th, td { text-align: left; padding: 11px 10px; border-bottom: 1px solid var(--li
 th { color: var(--dim); font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: 0.4px; }
 td.price { font-weight: 700; }
 .tag { background: #fde7f1; color: var(--pink); font-size: 11px; font-weight: 700; border-radius: 8px; padding: 2px 8px; margin-left: 6px; }
+.tag.soft { background: var(--bg); color: var(--violet); }
 .small { color: var(--dim); font-size: 13px; }
 footer { padding: 30px 0 50px; text-align: center; color: var(--dim); font-size: 14px; }
 footer a { margin: 0 8px; }
