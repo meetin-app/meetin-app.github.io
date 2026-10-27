@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "version": "1.5.0",
+  "versionCode": 7,
+  "version": "1.5.1",
   "minVersionCode": 6,
   "url": "https://github.com/meetin-app/meetin-app.github.io/releases/latest/download/Meetin.apk",
   "notes": {
-    "en": "Please update: incoming calls ring, the screen stays on while you are online, and you get a notification as soon as a listener comes online.",
-    "ta": "தயவுசெய்து update செய்யுங்கள்: அழைப்புகள் ring ஆகும், online-ல் இருக்கும்போது screen on-ஆக இருக்கும், listener online வந்ததும் உங்களுக்கு notification வரும் 🔔"
+    "en": "Please update: calls ring, the screen stays on while you are online, you get a notification when a listener comes online, and listeners are told at once when leaving the app takes them offline.",
+    "ta": "தயவுசெய்து update செய்யுங்கள்: அழைப்புகள் ring ஆகும், online-ல் இருக்கும்போது screen on-ஆக இருக்கும், listener online வந்ததும் notification வரும், app-ஐ விட்டு போனால் offline ஆவதை listeners-க்கு உடனே சொல்லும்."
   }
 }
