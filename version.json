@@ -1,10 +1,10 @@
 {
-  "versionCode": 2,
-  "version": "1.1.0",
+  "versionCode": 3,
+  "version": "1.2.0",
   "minVersionCode": 1,
   "url": "https://github.com/meetin-app/meetin-app.github.io/releases/latest/download/Meetin.apk",
   "notes": {
-    "en": "Calls reconnect by themselves, a clear No internet screen, gender in Edit profile, and many fixes.",
-    "ta": "அழைப்புகள் தானாக மீண்டும் இணையும், இணையம் இல்லாதபோது தெளிவான திரை, சுயவிவரத்தில் பாலினம் மாற்றலாம், மேலும் பல திருத்தங்கள்."
+    "en": "Bluetooth headsets now work in calls. Tap the audio button to switch between Bluetooth, phone and speaker.",
+    "ta": "அழைப்புகளில் ப்ளூடூத் ஹெட்செட் இப்போது வேலை செய்யும். ஒலி பொத்தானை அழுத்தி ப்ளூடூத், போன், ஸ்பீக்கர் இடையே மாற்றலாம்."
   }
 }
