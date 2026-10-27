@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "version": "1.4.0",
-  "minVersionCode": 1,
+  "versionCode": 6,
+  "version": "1.5.0",
+  "minVersionCode": 6,
   "url": "https://github.com/meetin-app/meetin-app.github.io/releases/latest/download/Meetin.apk",
   "notes": {
-    "en": "Invite friends and get 50 coins each when they recharge ₹49 or more.",
-    "ta": "நண்பர்களை அழையுங்கள்: அவர்கள் ₹49 அல்லது அதற்கு மேல் recharge செய்ததும் இருவருக்கும் 50 நாணயங்கள்!"
+    "en": "Please update: incoming calls ring, the screen stays on while you are online, and you get a notification as soon as a listener comes online.",
+    "ta": "தயவுசெய்து update செய்யுங்கள்: அழைப்புகள் ring ஆகும், online-ல் இருக்கும்போது screen on-ஆக இருக்கும், listener online வந்ததும் உங்களுக்கு notification வரும் 🔔"
   }
 }
