@@ -1,10 +1,10 @@
 {
-  "versionCode": 10,
-  "version": "1.6.2",
-  "minVersionCode": 10,
+  "versionCode": 11,
+  "version": "1.6.3",
+  "minVersionCode": 11,
   "url": "https://github.com/meetin-app/meetin-app.github.io/releases/latest/download/Meetin.apk",
   "notes": {
-    "en": "Please update: listeners stay online with the phone locked, and calls ring on the lock screen.",
-    "ta": "தயவுசெய்து update செய்யுங்கள்: phone lock செய்தாலும் listeners online-ல் இருக்கலாம், அழைப்புகள் lock screen-லும் ring ஆகும்."
+    "en": "Please update: you now hear a ringing tone while you wait for the listener to answer. Listeners stay online with the phone locked.",
+    "ta": "தயவுசெய்து update செய்யுங்கள்: listener எடுக்கும் வரை ringing சத்தம் கேட்கும். Phone lock செய்தாலும் listeners online-ல் இருக்கலாம்."
   }
 }
