@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "version": "1.6.3",
-  "minVersionCode": 11,
+  "versionCode": 12,
+  "version": "1.6.4",
+  "minVersionCode": 12,
   "url": "https://github.com/meetin-app/meetin-app.github.io/releases/latest/download/Meetin.apk",
   "notes": {
-    "en": "Please update: you now hear a ringing tone while you wait for the listener to answer. Listeners stay online with the phone locked.",
-    "ta": "தயவுசெய்து update செய்யுங்கள்: listener எடுக்கும் வரை ringing சத்தம் கேட்கும். Phone lock செய்தாலும் listeners online-ல் இருக்கலாம்."
+    "en": "Please update: calls are charged only once the voice connects, so a call that never connects costs nothing. You also hear a ringing tone while you wait.",
+    "ta": "தயவுசெய்து update செய்யுங்கள்: குரல் இணைந்த பிறகே அழைப்புக்கு நாணயம் கழிக்கப்படும்; இணையாத அழைப்புக்கு கட்டணம் இல்லை. காத்திருக்கும்போது ringing சத்தமும் கேட்கும்."
   }
 }
